@@ -66,7 +66,5 @@ let renderCreators = function () {
       </div>`;
 
     engineersDiv.insertAdjacentHTML("beforeend", template);
-
-    console.log(creator);
   });
 };
